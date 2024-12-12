@@ -1,4 +1,4 @@
-/**
+setcash(99999)/**
 * @license StewartPrivateLicense-2.0.1
 * Copyright (c) 05Konz 2023
 *
